@@ -11,11 +11,13 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-yoshida-monma-3416473b6" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /
  </a>
-  <a hef = "mailto:liloyoshida26@gmail.com"> 
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+   <a href="mailto:liloyoshida26@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
+</p>
 </h2>
 
-<details>
+
+
+<details align="left">
 <summary><strong> Education :school: </strong></summary>
   <ul>
     <li>Finished High school in Londrinense </li> 

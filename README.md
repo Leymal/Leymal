@@ -8,10 +8,11 @@
 <h2 align="center">
   Student at Unifil in his first year
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-felipe-yoshida-monma-3416473b6" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
-  </a>
-  
+  <a href="https://www.linkedin.com/in/luiz-felipe-yoshida-monma-3416473b6" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /
+ </a>
+  <a hef = "mailto:liloyoshida26@gmail.com"> 
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
 </h2>
 
 <details>

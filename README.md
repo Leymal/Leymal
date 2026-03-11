@@ -17,11 +17,12 @@ Hello! I'm Luiz Felipe Yoshida Monma
 </h2>
 
 <details>
-<h3>
-  Finished High school in Londrinense <br>
-  Finished an English course in Cultural <br>
-  Currently studying software engineer at UniFil
-</h3>
+<summary><strong> Education :school: </strong></summary>
+  <ul>
+    <li>Finished High school in Londrinense </li> 
+    <li>Finished an English course in Cultural </li>
+    <li>Currently studying software engineer at UniFil
+  </ul>
   
 </details>
 <!--

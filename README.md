@@ -8,7 +8,7 @@
 <h2 align="center">
   Student at Unifil in his first year
 <p align="center">
-  <a href=https://www.linkedin.com/in/luiz-felipe-yoshida-monma-3416473b6/">
+  <a href="URL" target="_blank" href=https://www.linkedin.com/in/luiz-felipe-yoshida-monma-3416473b6/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
   </a>
   

@@ -26,6 +26,17 @@
   </ul>
   
 </details>
+
+<details>
+<summary><strong> Currently learning &#128270; </strong></summary>
+   <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      
+      
+   </ul>
+   
+</details>
 <!--
 **Leymal/Leymal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
